@@ -1,1 +1,1 @@
-console.log('dd')
+alert(1)
