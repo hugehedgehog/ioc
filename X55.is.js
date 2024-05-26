@@ -1,1 +1,1 @@
-alert('fuck world')
+console.log("ioc test")
