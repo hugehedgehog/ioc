@@ -1,1 +1,1 @@
-alert(55551)
+alert('hello world')
